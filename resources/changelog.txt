@@ -1,0 +1,6 @@
+June 22 2022
+* First Commit
+    - Added base files and file structure
+    - Some text added 
+    - Nav bar is ready
+    
